@@ -18,7 +18,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Freight Trust Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/freight-trust/relayswap</url>
+			<url>https://maven.pkg.github.com/freight-trust/relayswap-xdai</url>
 		</repository>
  </distributionManagement>
  
