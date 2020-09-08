@@ -12,6 +12,7 @@
 	<artifactId>relayswap</artifactId>
 	<version>0.1.0</version>
 	<name>relayswap</name>
+	<packaging>relayswap-api</packaging>
 	<description>RelaySwap Financing API with xDai </description>
 
 	<distributionManagement>
